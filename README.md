@@ -13,6 +13,16 @@
 ## **Contributions**
 **You** are always welcome for you precious contirbutions , just clone it , and go for it .
 
+& 
+
+Those who have contributed succesfully in this project can add their Name to the `CONTRIBUTORS.md` file using the below convention
+
+```markdown
+#### Name: YOUR NAME
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
 ***
 
 ## **License**
